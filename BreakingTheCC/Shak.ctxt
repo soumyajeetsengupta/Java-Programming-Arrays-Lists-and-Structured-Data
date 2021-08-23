@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Shak
+comment0.text=\r\n\ Write\ a\ description\ of\ wordLengths\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=java.lang.String[]\ getCommon()
+comment2.params=list\ word
+comment2.target=int\ indexOf(java.lang.String[],\ java.lang.String)
+comment3.params=resource\ common\ counts
+comment3.target=void\ countWords(edu.duke.FileResource,\ java.lang.String[],\ int[])
+comment4.params=
+comment4.target=void\ countShakesspeare()
+numComments=5
